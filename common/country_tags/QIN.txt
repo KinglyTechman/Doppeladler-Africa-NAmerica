@@ -1,0 +1,1 @@
+QIN = "countries/Qinghai.txt"
